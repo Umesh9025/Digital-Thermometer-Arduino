@@ -68,4 +68,6 @@ Voltage calculation
 Temperature calculation
   ↓
 16×2 LCD
-![Digital Thermometer Circuit](OUTPUT%20CIRCUIT.png)
+
+
+![Digital Thermometer Circuit](./OUTPUT%20CIRCUIT.png)
