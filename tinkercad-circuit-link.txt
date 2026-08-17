@@ -1,0 +1,4 @@
+Tinkercad Digital Thermometer Simulation
+
+Open the working simulation here:
+https://www.tinkercad.com/things/4BcOY8vkfsp-digital-thermometer?sharecode=VW_bpXecaqajmb0C_7hgJDI65mSRpuWVg9VuzWDntTA
