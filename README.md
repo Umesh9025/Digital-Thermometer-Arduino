@@ -70,4 +70,7 @@ Temperature calculation
 16×2 LCD
 
 
+
+## 📷 Circuit Simulation
+
 ![Digital Thermometer Circuit](./OUTPUT%20CIRCUIT.png)
